@@ -4,4 +4,4 @@ Mi primer repositorio en GitHub
 
 Boca siempre boca 💙💛💙
 
-Finalizando actividad de github
+Finalizando actividad en GitHub
