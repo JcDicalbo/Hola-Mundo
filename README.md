@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-La patria no se vende
+En un entorno ágil, la única constante es el cambio
 
 Finalizando actividad en GitHub
 
