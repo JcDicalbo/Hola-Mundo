@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-En un entorno ágil, la única constante es el cambio
+Aguante el Scrum
 
 Finalizando actividad en GitHub
 
