@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-Primeras clases de GitHub
+Aguante Messi y el vino
 
 Finalizando actividad en GitHub
 
