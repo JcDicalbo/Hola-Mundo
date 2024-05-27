@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-Aguante el Scrum
+Un corazón helado solo necesita una sonrisa cálida
 
 Finalizando actividad en GitHub
 
