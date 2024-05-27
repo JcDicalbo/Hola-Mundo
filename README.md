@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-Boca siempre boca💙💛💙
+Ejercicio en GitHub
 
 Finalizando actividad en GitHub
 
