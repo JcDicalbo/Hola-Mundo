@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-La patria no se vende
+Boca siempre boca 💙💛💙
 
 Finalizando actividad de github
 
