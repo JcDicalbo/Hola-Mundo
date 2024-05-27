@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-Un corazón helado solo necesita una sonrisa cálida
+Boca siempre boca💙💛💙
 
 Finalizando actividad en GitHub
 
