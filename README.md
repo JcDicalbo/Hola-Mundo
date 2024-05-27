@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-Ejercicio en GitHub
+Feliz 25 de mayo!!
 
 Finalizando actividad en GitHub
 
