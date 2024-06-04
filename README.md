@@ -2,7 +2,7 @@
 
 Mi primer repositorio en GitHub
 
-Aguante Messi y el vino
+Siempre Boca
 
 Finalizando actividad en GitHub
 
